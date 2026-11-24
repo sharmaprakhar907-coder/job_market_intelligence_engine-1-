@@ -1,0 +1,13 @@
+title,company,location,description,skills,experience,salary_min,salary_max
+Data Analyst,Northstar Analytics,Jaipur,Analyze business data and build reports,"SQL, Excel, Python, Power BI, Statistics, Data Cleaning",0-2 years,300000,550000
+Junior Data Analyst,MetricWorks,Remote India,Prepare dashboards and investigate trends,"SQL, Excel, Power BI, Tableau, Data Visualization, Communication",0-1 years,350000,600000
+Business Intelligence Analyst,InsightBridge,Jaipur,Create BI dashboards and reporting pipelines,"SQL, Power BI, Excel, Python, Data Modeling",0-2 years,350000,650000
+Data Analyst,PeoplePulse,Remote India,Support workforce analytics and reporting,"Excel, SQL, Python, Pandas, Statistics, Power BI",0-2 years,300000,580000
+ML Engineer,ModelForge,Bengaluru,Train and evaluate machine learning models,"Python, Machine Learning, Scikit-learn, Pandas, SQL, Git, Docker",0-2 years,500000,900000
+Junior Machine Learning Engineer,AI Harbor,Remote India,Build ML pipelines and evaluate models,"Python, Machine Learning, Scikit-learn, Feature Engineering, Model Evaluation, Git",0-1 years,450000,850000
+AI Engineer,NeuralNest,Hyderabad,Develop AI prototypes and language model applications,"Python, Deep Learning, NLP, LLM, Generative AI, PyTorch, Git",0-2 years,500000,950000
+Data Scientist,QuantLeaf,Pune,Build statistical and predictive models,"Python, SQL, Statistics, Machine Learning, Pandas, Scikit-learn",0-2 years,450000,800000
+Python Developer,CodeSpring,Jaipur,Build APIs and backend services,"Python, FastAPI, SQL, Git, Docker, Linux",0-2 years,300000,600000
+Reporting Analyst,OpsVista,Jaipur,Automate reports and maintain spreadsheets,"Excel, SQL, Power BI, Communication, Data Cleaning",0-1 years,280000,500000
+Data Analyst,BlueOrbit,Remote India,Analyze product metrics and communicate insights,"SQL, Python, Excel, Tableau, Statistics, Pandas",0-2 years,350000,650000
+ML Intern,VisionStack,Jaipur,Support model experiments and data preparation,"Python, Machine Learning, TensorFlow, Pandas, NumPy, Git",Internship,120000,240000
